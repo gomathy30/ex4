@@ -1,0 +1,12 @@
+h1{
+    color:brown;
+}
+.completed{
+    text-decoration: line-through;
+    color: chocolate;
+}
+.trashcan{
+    font-size: 20px;
+    margin-left: 10px;
+    cursor: pointer;
+}
